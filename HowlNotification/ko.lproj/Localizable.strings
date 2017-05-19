@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  HowlNotification
+
+  Created by 유명식 on 2017. 5. 18..
+  Copyright © 2017년 swift. All rights reserved.
+*/
+
+//Key = Value
+"Hello!" = "하울의 코딩 채널";
+"Hello_message_body" = "하울의 코딩 채널에 오신것을 환영합니다.";
